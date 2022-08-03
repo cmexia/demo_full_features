@@ -12,3 +12,8 @@
 	path = OCA/stock-logistics-reporting
 	url = git@github.com:OCA/stock-logistics-reporting.git
 	branch = 14.0
+
+[submodule "tecnologiaorganizacionaldigital/l10n_mx-extension"]
+	path = tecnologiaorganizacionaldigital/l10n_mx-extension
+	url = git@github.com:tecnologiaorganizacionaldigital/l10n_mx-extension.git
+	branch = 14.0
